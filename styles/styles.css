@@ -363,3 +363,11 @@ body{
 .learn{
     margin-top: 15px;
 }
+
+html {
+    scroll-behavior: smooth;
+   }
+   a {
+    text-decoration: none;
+    color: white;
+   } 
