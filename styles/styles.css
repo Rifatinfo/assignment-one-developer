@@ -330,6 +330,7 @@ body{
     display: flex;
     gap:10px;
     height: 55px;
+    margin-top: 20px;
 }
 .field{
     border-radius: 8px;
